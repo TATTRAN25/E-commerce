@@ -59,15 +59,25 @@ Sau khi cài đặt Git, bạn có thể clone source code của dự án từ r
 <p>Quản lý sản phẩm: Nếu bạn là người bán hàng, bạn có thể tạo và quản lý các sản phẩm của mình. Bạn có thể thêm, sửa đổi và xóa sản phẩm, cập nhật thông tin và giá cả.</p>
 
 ## Project Demo:
+-Đăng nhập
 ![Đăng nhập](ReadMe/Images/DangNhap.png)
+-Đăng ký
 ![Đăng ký](ReadMe/Images/DangKy.png)
+-Danh sách User
 ![Danh sách User](ReadMe/Images/DanhSachUser.png)
+-Quản Lý sản phẩm
 ![Quản Lý sản phẩm](ReadMe/Images/QuanLySanPham.png)
+-Thêm sản phẩm
 ![Thêm sản phẩm](ReadMe/Images/ThemSanPham.png)
+-Sửa sản phẩm
 ![Sửa sản phẩm](ReadMe/Images/SuaSanPham.png)
+-Danh mục sản phẩm
 ![Danh mục sản phẩm](ReadMe/Images/DanhMucSP.png)
+-Lich sử mua hàng
 ![Lich sử mua hàng](ReadMe/Images/LichSuMuaHang.png)
+-Chi tiết sản phẩm
 ![Chi tiết sản phẩm](ReadMe/Images/ChiTietSanPham.png)
+-Mua sản phẩm
 ![Mua sản phẩm](ReadMe/Images/MuaSanPham.png)
 
 
