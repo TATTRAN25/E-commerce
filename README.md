@@ -60,15 +60,14 @@ Sau khi cài đặt Git, bạn có thể clone source code của dự án từ r
 
 ## Project Demo:
 ![Đăng nhập](ReadMe/Image/DangNhap.png)
-![Đăng ký](image.png)
-![Danh sách User](image.png)
-![Quản Lý sản phẩm](image.png)
-![Thêm sản phẩm](image.png)
-![Sửa sản phẩm](image.png)
-![Danh mục sản phẩm](image.png)
-![Lich sử mua hàng](image.png)
-![Chi tiết sản phẩm](image.png)
-![Mua sản phẩm](image.png)
-![Giỏ hàng](image.png)
+![Đăng ký](ReadMe/Image/DangKy.png)
+![Danh sách User](ReadMe/Image/DanhSachUser.png)
+![Quản Lý sản phẩm](ReadMe/Image/QuanLySanPham.png)
+![Thêm sản phẩm](ReadMe/Image/ThemSanPham.png)
+![Sửa sản phẩm](ReadMe/Image/SuaSanPham.png)
+![Danh mục sản phẩm](ReadMe/Image/DanhMucSP.png)
+![Lich sử mua hàng](ReadMe/Image/LichSuMuaHang.png)
+![Chi tiết sản phẩm](ReadMe/Image/ChiTietSanPham.png)
+![Mua sản phẩm](ReadMe/Image/MuaSanPham.png)
 
 
