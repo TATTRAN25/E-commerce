@@ -59,15 +59,15 @@ Sau khi cài đặt Git, bạn có thể clone source code của dự án từ r
 <p>Quản lý sản phẩm: Nếu bạn là người bán hàng, bạn có thể tạo và quản lý các sản phẩm của mình. Bạn có thể thêm, sửa đổi và xóa sản phẩm, cập nhật thông tin và giá cả.</p>
 
 ## Project Demo:
-![Đăng nhập](ReadMe/Image/DangNhap.png)
-![Đăng ký](ReadMe/Image/DangKy.png)
-![Danh sách User](ReadMe/Image/DanhSachUser.png)
-![Quản Lý sản phẩm](ReadMe/Image/QuanLySanPham.png)
-![Thêm sản phẩm](ReadMe/Image/ThemSanPham.png)
-![Sửa sản phẩm](ReadMe/Image/SuaSanPham.png)
-![Danh mục sản phẩm](ReadMe/Image/DanhMucSP.png)
-![Lich sử mua hàng](ReadMe/Image/LichSuMuaHang.png)
-![Chi tiết sản phẩm](ReadMe/Image/ChiTietSanPham.png)
-![Mua sản phẩm](ReadMe/Image/MuaSanPham.png)
+![Đăng nhập](ReadMe/Images/DangNhap.png)
+![Đăng ký](ReadMe/Images/DangKy.png)
+![Danh sách User](ReadMe/Images/DanhSachUser.png)
+![Quản Lý sản phẩm](ReadMe/Images/QuanLySanPham.png)
+![Thêm sản phẩm](ReadMe/Images/ThemSanPham.png)
+![Sửa sản phẩm](ReadMe/Images/SuaSanPham.png)
+![Danh mục sản phẩm](ReadMe/Images/DanhMucSP.png)
+![Lich sử mua hàng](ReadMe/Images/LichSuMuaHang.png)
+![Chi tiết sản phẩm](ReadMe/Images/ChiTietSanPham.png)
+![Mua sản phẩm](ReadMe/Images/MuaSanPham.png)
 
 
