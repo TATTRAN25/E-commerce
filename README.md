@@ -1,6 +1,4 @@
 # E-commerce
-<img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" />
-
 <h2 align="center">Hi 👋, I'm Tuan</h2>
 <p align="center">
 </p>
@@ -40,14 +38,14 @@ Dự án của tôi là tạo ra một ứng dụng web thương mại điện t
 </p>
 
 ## Features:
-<i>Mua và bán sản phẩm</i>
-<i>Đặt đơn hàng vào giỏ hàng và lưu vào lịch sử</i>
-<i>Đăng ký và đăng nhập tài khoản</i>
-<i>Quản lý sản phẩm của bản thân</i>
+- Mua và bán sản phẩm
+- Đặt đơn hàng vào giỏ hàng và lưu vào lịch sử
+- Đăng ký và đăng nhập tài khoản
+- Quản lý sản phẩm của bản thân
 
 ## Installation guide:
-<p>Bạn cần phải có Git để có thể pull source code từ repository về. Bạn có thể tải Git từ trang web chính thức của Git và làm theo hướng dẫn để cài đặt cho hệ điều hành của bạn.<img src="https://img.icons8.com/color/48/000000/git.png"/></p>
-<p>Bạn cũng cần cài đặt Composer để quản lý các phụ thuộc PHP trong dự án. Composer là công cụ quan trọng để cài đặt Laravel. Bạn có thể tải Composer từ trang web chính thức và cài đặt theo hướng dẫn trên trang đó.</p>
+<p>Bạn cần phải có [Git](https://git-scm.com/) để có thể pull source code từ repository về. Bạn có thể tải Git từ trang web chính thức của Git và làm theo hướng dẫn để cài đặt cho hệ điều hành của bạn.</p>
+<p>Bạn cũng cần cài đặt [Composer](https://getcomposer.org/) để quản lý các phụ thuộc PHP trong dự án. Composer là công cụ quan trọng để cài đặt Laravel. Bạn có thể tải Composer từ trang web chính thức và cài đặt theo hướng dẫn trên trang đó.</p>
 <p>Clone source code từ repository:
 Sau khi cài đặt Git, bạn có thể clone source code của dự án từ repository. Mở Terminal hoặc Command Prompt và di chuyển đến thư mục nơi bạn muốn lưu trữ dự án. Sau đó, chạy lệnh git clone <link-repository> để clone source code từ repository về. Thay <link-repository> bằng đường dẫn đến repository của dự án Laravel.</p>
 <p>Di chuyển vào thư mục dự án Laravel đã được clone bằng lệnh cd <tên-dự-án>. Tiếp theo, chạy lệnh composer install để cài đặt các phụ thuộc của Laravel. Composer sẽ tải xuống và cài đặt tất cả các gói phụ thuộc được liệt kê trong tệp composer.json và tạo ra thư mục vendor chứa các thư viện cần thiết.</p>
@@ -59,4 +57,18 @@ Sau khi cài đặt Git, bạn có thể clone source code của dự án từ r
 <p>Đặt đơn hàng và lịch sử: Khi bạn đã chọn sản phẩm và thêm vào giỏ hàng, hãy kiểm tra lại thông tin và tiến hành đặt đơn hàng. Sau khi đặt hàng thành công, bạn có thể xem lịch sử đơn hàng của mình để theo dõi tình trạng và chi tiết đơn hàng trước đây.</p>
 <p>Đăng ký và đăng nhập: Nếu bạn muốn tận dụng các tính năng và quyền lợi của ứng dụng, hãy đăng ký tài khoản mới bằng cách cung cấp thông tin cần thiết. Sau khi đăng ký thành công, bạn có thể đăng nhập vào tài khoản của mình để quản lý và truy cập các chức năng riêng.</p>
 <p>Quản lý sản phẩm: Nếu bạn là người bán hàng, bạn có thể tạo và quản lý các sản phẩm của mình. Bạn có thể thêm, sửa đổi và xóa sản phẩm, cập nhật thông tin và giá cả.</p>
+
+## Project Demo:
+![Đăng nhập](ReadMe/Image/DangNhap.png)
+![Đăng ký](image.png)
+![Danh sách User](image.png)
+![Quản Lý sản phẩm](image.png)
+![Thêm sản phẩm](image.png)
+![Sửa sản phẩm](image.png)
+![Danh mục sản phẩm](image.png)
+![Lich sử mua hàng](image.png)
+![Chi tiết sản phẩm](image.png)
+![Mua sản phẩm](image.png)
+![Giỏ hàng](image.png)
+
 
