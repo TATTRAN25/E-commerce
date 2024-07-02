@@ -44,8 +44,8 @@ Dự án của tôi là tạo ra một ứng dụng web thương mại điện t
 - Quản lý sản phẩm của bản thân
 
 ## Installation guide:
-<p>Bạn cần phải có [Git](https://git-scm.com/) để có thể pull source code từ repository về. Bạn có thể tải Git từ trang web chính thức của Git và làm theo hướng dẫn để cài đặt cho hệ điều hành của bạn.</p>
-<p>Bạn cũng cần cài đặt [Composer](https://getcomposer.org/) để quản lý các phụ thuộc PHP trong dự án. Composer là công cụ quan trọng để cài đặt Laravel. Bạn có thể tải Composer từ trang web chính thức và cài đặt theo hướng dẫn trên trang đó.</p>
+<p>Bạn cần phải có <a href="https://git-scm.com/">Git</a> để có thể pull source code từ repository về. Bạn có thể tải Git từ trang web chính thức của Git và làm theo hướng dẫn để cài đặt cho hệ điều hành của bạn.</p>
+<p>Bạn cũng cần cài đặt <a href="https://getcomposer.org/">Composer</a> để quản lý các phụ thuộc PHP trong dự án. Composer là công cụ quan trọng để cài đặt Laravel. Bạn có thể tải Composer từ trang web chính thức và cài đặt theo hướng dẫn trên trang đó.</p>
 <p>Clone source code từ repository:
 Sau khi cài đặt Git, bạn có thể clone source code của dự án từ repository. Mở Terminal hoặc Command Prompt và di chuyển đến thư mục nơi bạn muốn lưu trữ dự án. Sau đó, chạy lệnh git clone <link-repository> để clone source code từ repository về. Thay <link-repository> bằng đường dẫn đến repository của dự án Laravel.</p>
 <p>Di chuyển vào thư mục dự án Laravel đã được clone bằng lệnh cd <tên-dự-án>. Tiếp theo, chạy lệnh composer install để cài đặt các phụ thuộc của Laravel. Composer sẽ tải xuống và cài đặt tất cả các gói phụ thuộc được liệt kê trong tệp composer.json và tạo ra thư mục vendor chứa các thư viện cần thiết.</p>
